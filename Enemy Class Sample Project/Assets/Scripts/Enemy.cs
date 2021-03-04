@@ -40,7 +40,7 @@ public class Enemy : MonoBehaviour
         }
         set
         {
-            this.transform.posion = value;
+            this.transform.position = value;
         }
     }
 }
